@@ -1,0 +1,8 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`renders the component 1`] = `
+"<div data-v-f0aeb31b=""><input data-v-f0aeb31b="" placeholder="Enter RFC">
+  <!--v-if-->
+  <!--v-if-->
+</div>"
+`;
